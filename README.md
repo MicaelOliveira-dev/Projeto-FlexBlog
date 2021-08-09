@@ -1,4 +1,4 @@
-![Sem título](https://user-images.githubusercontent.com/72334759/122445876-6310c280-cf78-11eb-8364-eeb403706a21.png)
+![micaeloliveira-dev github io_Projeto-FlexBlog_](https://user-images.githubusercontent.com/72334759/128787921-462ed9ff-4526-4bdf-8b27-19b802ef3b6f.png)
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluido)
 
