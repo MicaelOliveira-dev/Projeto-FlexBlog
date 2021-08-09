@@ -2,9 +2,6 @@
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluido)
 
-## Link do Projeto
--Link do Site: https://micaeloliveira-dev.github.io/Projeto-FlexBlog/
-
 ## Objetivo :dart:
 
 <p align="justify">
